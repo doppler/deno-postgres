@@ -1,4 +1,4 @@
-import { RowDescription, Column, Format } from "./connection.ts";
+import type { RowDescription, Column, Format } from "./connection.ts";
 import { Connection } from "./connection.ts";
 import { encode, EncodedArg } from "./encode.ts";
 
